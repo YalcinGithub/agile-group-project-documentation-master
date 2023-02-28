@@ -8,4 +8,3 @@ Click on of the links below to get access the documentation of your interest.
 - [Agile meeting guide](Documents/Agile%20Meeting%20Guide.pdf)
 - [Roles and responsibilities](Documents/Roles%20and%20Responsibilities.pdf)
 - [Test plan](Test%20Plan/readme.md)
-- [Application information](Application%20information)
